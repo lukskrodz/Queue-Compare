@@ -1,7 +1,7 @@
 package pl.skrodzki.sfdc.compare;
 
 public class Main {
-	public void main(){
+	public void main(String[] args){
 		
 	}
 }
